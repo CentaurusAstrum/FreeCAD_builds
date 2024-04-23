@@ -34,5 +34,11 @@ für die Befestigung
 Der Ordner "halterung innen" enthält FreeCAD-Builds für Innenhalterungen.
 Speziell das gegenstück für die Halterung
 
+## Dependencies
+
+- **Workbench:** Befestigungsmittel für das Innengewinde.
+- **Dateiformat:** Die Dateien haben das Format FCstd und sind kompatibel mit FreeCAD.
+
+
 
 
