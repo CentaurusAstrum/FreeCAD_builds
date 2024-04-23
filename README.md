@@ -1,6 +1,6 @@
 # FreeCAD_builds
 
-![screenshot](case/Gehäuse/case.png)
+![casing](case/Gehäuse/case.png)
   
 
 
