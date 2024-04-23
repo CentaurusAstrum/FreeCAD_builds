@@ -1,6 +1,6 @@
 # FreeCAD_builds
 
-![screenshot](Bildschirmfoto vom 2024-04-24 00-26-22.png)
+![casing](case/Gehäuse/case.png)
   
 
 
