@@ -9,14 +9,15 @@ Dieses Repository enthält verschiedene FreeCAD-Builds für verschiedene Anwendu
 ## Inhaltsverzeichnis
 
 - [Ordner "case"](#ordner-case)
-- [Ordner "halterung außen"](#ordner-halterung-außen)
-- [Ordner "halterung innen"](#ordner-halterung-innen)
 
 ---
 
 ## Ordner "case"
 
 Der Ordner "case" enthält FreeCAD-Builds für Gehäuse-Designs.
+- [Ordner "Gehäuse"](#ordner-Gehäuse)
+- [Ordner "Halterung_außen"](#ordner-halterung-außen)
+- [Ordner "Halterung_innen"](#ordner-halterung-innen)
 
 
 ---
