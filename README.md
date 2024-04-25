@@ -44,4 +44,4 @@ In diesem Ordner befindet sich ein erster Entwurf für ein Verdichterrad mit Geh
 ## Dependencies
 
 - **Workbench:** Befestigungsmittel für das Innengewinde.
-- **Dateiformat:** Die Dateien haben das Format .FCstd und sind kompatibel mit FreeCAD.
+- **Dateiformat:** Die Dateien haben das Format .FCstd, .FCBak und sind kompatibel mit FreeCAD.
