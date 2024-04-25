@@ -1,47 +1,50 @@
-# FreeCAD_builds
+# FreeCAD-Builds Repository
 
-![casing](case/Gehäuse/case.png)
-  
+<p float="left">
+  <img src="case/Gehäuse/case.png" alt="casing" width="279.2"/>
+  <img src="Verdichterrad/Zentrifugalkompressor.png" alt="Turbocharger" width="300"/> 
+</p>
 
-
-Dieses Repository enthält verschiedene FreeCAD-Builds für verschiedene Anwendungsfälle.
+Dieses Repository bietet eine Sammlung von FreeCAD-Builds für unterschiedliche Anwendungsfälle.
 
 ## Inhaltsverzeichnis
 
-- ["case"](#ordner-case)
+- [Builds](builds)
+- [Gehäuse](case)
+- [Tutorial-Builds](tutorial_builds)
+- [Verdichterrad](Verdichterrad)
 
 ---
 
-## Ordner "case"
+## Gehäuse-Designs
 
-Der Ordner "case" enthält FreeCAD-Builds für Gehäuse-Designs.
-- [ Gehäuse](#ordner-Gehäuse)
-- [ Halterung_außen](#ordner-halterung-außen)
-- [ Halterung_innen](#ordner-halterung-innen)
-- [ Verdichterrad](#Verdichterrad)
-
-
----
-
-## Ordner "Halterung_außen"
-
-Der Ordner "halterung außen" enthält FreeCAD-Builds für Außenhalterungen.
-für die Befestigung 
+Im Ordner `case` finden Sie FreeCAD-Builds speziell für Gehäuse-Designs:
+- `Gehäuse`
+- `Halterung_außen`
+- `Halterung_innen`
+- `Verdichterrad`
 
 ---
 
-## Ordner "Halterung_innen"
+## Außenhalterungen
 
-Der Ordner "halterung innen" enthält FreeCAD-Builds für Innenhalterungen.
-Speziell das gegenstück für die Halterung
+Der Ordner `Halterung_außen` beinhaltet Designs für Außenhalterungen, welche für externe Befestigungen konzipiert sind.
 
 ---
 
-## Ordner "Verdichterrad"
+## Innenhalterungen
 
-In diesem Ordner befindet sich ein erster Entwurf für ein Verdichterrad mit Gehäuse
+Im Ordner `Halterung_innen` befinden sich Builds für Innenhalterungen, die speziell als Gegenstück zu den Außenhalterungen dienen.
 
-## Dependencies
+---
 
-- **Workbench:** Befestigungsmittel für das Innengewinde.
-- **Dateiformat:** Die Dateien haben das Format .FCstd, .FCBak und sind kompatibel mit FreeCAD.
+## Verdichterrad
+
+Der Ordner `Verdichterrad` enthält Entwürfe für ein Verdichterrad inklusive Gehäuse.
+
+## Abhängigkeiten
+
+- **Workbench:** Werkzeuge und Vorrichtungen für Innengewinde.
+- **Dateiformate:** Die Dateien sind im Format .FCstd und .FCBak verfügbar und kompatibel mit FreeCAD.
+
+---
