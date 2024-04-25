@@ -18,6 +18,7 @@ Der Ordner "case" enthält FreeCAD-Builds für Gehäuse-Designs.
 - [ Gehäuse](#ordner-Gehäuse)
 - [ Halterung_außen](#ordner-halterung-außen)
 - [ Halterung_innen](#ordner-halterung-innen)
+- [ Verdichterrad](#Verdichterrad)
 
 
 ---
@@ -34,16 +35,13 @@ für die Befestigung
 Der Ordner "halterung innen" enthält FreeCAD-Builds für Innenhalterungen.
 Speziell das gegenstück für die Halterung
 
+---
+
+## Ordner "Verdichterrad"
+
+In diesem Ordner befindet sich ein erster Entwurf für ein Verdichterrad mit Gehäuse
+
 ## Dependencies
 
 - **Workbench:** Befestigungsmittel für das Innengewinde.
-<<<<<<< HEAD
-- **Dateiformat:** Die Dateien haben das Format FCstd und sind kompatibel mit FreeCAD.
-=======
-- **Dateiformat:** Die Dateien haben das Format FCstd und sind kompatibel mit FreeCAD.
-
-
-
-
-
->>>>>>> 6b0f59bc6d585ed5f37e1409ec61bb006912736b
+- **Dateiformat:** Die Dateien haben das Format .FCstd und sind kompatibel mit FreeCAD.
