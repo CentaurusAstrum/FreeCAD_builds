@@ -37,4 +37,13 @@ Speziell das gegenstück für die Halterung
 ## Dependencies
 
 - **Workbench:** Befestigungsmittel für das Innengewinde.
+<<<<<<< HEAD
 - **Dateiformat:** Die Dateien haben das Format FCstd und sind kompatibel mit FreeCAD.
+=======
+- **Dateiformat:** Die Dateien haben das Format FCstd und sind kompatibel mit FreeCAD.
+
+
+
+
+
+>>>>>>> 6b0f59bc6d585ed5f37e1409ec61bb006912736b
