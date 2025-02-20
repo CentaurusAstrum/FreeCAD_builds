@@ -3,7 +3,7 @@
 <p float="left">
   <img src="case/Gehäuse/case.png" alt="casing" width="279.2"/>
   <img src="Verdichterrad/Zentrifugalkompressor.png" alt="Turbocharger" width="300"/> 
-  <img src="Verdichterrad/Turbine/total_assembly.pdf" alt="total_assembly" width="300"/> 
+  <img src="Verdichterrad/Turbine/total_assembly.png" alt="total_assembly" width="300"/> 
 </p>
 
 Dieses Repository bietet eine Sammlung von FreeCAD-Builds für unterschiedliche Anwendungsfälle.
